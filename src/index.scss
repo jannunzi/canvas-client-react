@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.canvas-grid {
+  .canvas-course {
+    margin-bottom: 15px;
+  }
+}
+
+.canvas-module {
+  margin-bottom: 15px;
+}
+
+.btn {
+  margin-left: 5px;
+}
+
+
+.form-control.canvas-inline {
+  display: inline;
+  width: auto;
+}
